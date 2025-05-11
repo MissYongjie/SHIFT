@@ -1,0 +1,12 @@
+python==3.10.2
+numpy
+scipy
+scikit-image
+scikit-learn
+torch>=2.2.0
+torchvision
+pytorch-msssim
+imageio
+matplotlib
+tensorboard
+opencv-python
